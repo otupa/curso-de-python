@@ -8,7 +8,7 @@ a variavel open possui dois argumentos
 '''
 
 #para abrir um arquivo txt
-arquivo = open('Aula10.txt', 'w')
+arquivo = open('10.1', 'w')
 
 arquivo.write('eai pessoal, blz?')
 
